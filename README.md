@@ -14,7 +14,7 @@ Caros candidatos, leiam atentamente as instruções neste README para realizar o
 ## Tarefas do teste:
 
 **Funções necessárias:**
-  - Normalizar a base de dados, identificar possíveis outliers e dados espúrios (arquivo 'data.csv');
+  - Normalizar a base de dados, identificar possíveis outliers e dados espúrios (arquivo [data.csv](https://github.com/Allgoo/teste-ia/blob/master/data.csv));
   - Modelar uma rede neural utilizando keras e tensorflow;
   - Utilizando o framework Flask ou Sanic desenvolver uma API e/ou microserviço para a manutenção das informações na base de dados e obtenção da previsão da rede neural;
   - Documentação de toda a metodologia, algoritmos, ideias em um notebook Jupyter.
